@@ -1,11 +1,11 @@
 package com.smartdroidesign.recyclerview;
 
-public class ExampleItem {
+public class Items {
     private int imageResource;
     private String textOne;
     private String textTwo;
 
-    public ExampleItem(int imageResource, String textOne, String textTwo) {
+    public Items(int imageResource, String textOne, String textTwo) {
         this.imageResource = imageResource;
         this.textOne = textOne;
         this.textTwo = textTwo;
